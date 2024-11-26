@@ -4,7 +4,7 @@ A curated list of awesome WonderSwan/WonderSwan Color development resources and 
 
 ## Contents
 
-- [Introduction](#introduction)
+- [介绍](#introduction)
 - [Documentation](#documentation)
   - [Datasheets](#datasheets)
   - [WonderSwan hardware](#wonderswan-hardware)
