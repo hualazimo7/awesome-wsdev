@@ -169,6 +169,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
  * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) (GPL-3.0) - WonderSwan cartridge menu/launcher
  * [Chips1](https://github.com/asiekierka/chips1) (MIT) - CHIP-8/SuperCHIP emulator.
  * [ELKS](https://github.com/ghaerr/elks) (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+   * [elkswan](https://codeberg.org/asie/elkswan) - More WS/WSC-friendly fork of the above.
  * [ieepview](https://github.com/asiekierka/ws-ieepview) (MIT) - internal EEPROM viewer/editor.
  * [ws-backup-tool](https://github.com/asiekierka/ws-backup-tool) (GPL-3.0) - cartridge backup/restore/flash tool and IPL dumper for BootFriend.
  * [wsmonitor](https://bitbucket.org/trap15/wsmonitor/) (MIT) - 80186 debug monitor.
