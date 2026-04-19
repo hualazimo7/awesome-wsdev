@@ -158,6 +158,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 ### Games
 
  * [Inufuto's games](http://inufuto.web.fc2.com/8bit/) - written using a custom C-like toolchain.
+ * [Snail Maze+](https://github.com/xdanieldzd/WS-Maze) (MIT) - Wonderful example project inspired by an early console game.
  * [SwanDriving](http://sebastianmihai.com/swan-driving.html) ([Mono](http://sebastianmihai.com/swan-driving-bw.html)) - tech demo written with NASM.
  * [WonderBreakanoid](https://github.com/xdanieldzd/WonderBreakanoid) (MIT) - Breakanoid-style game written with Wonderful.
  * [WonderSnake](https://github.com/tslanina/Retro-WonderSwanColor-Wondersnake) (GPL-3.0) - Snake game written with Borland TASM.
